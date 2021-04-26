@@ -116,7 +116,10 @@ sections:
 seo:
   type: stackbit_page_meta
   title: LeopoldinuMED Tirol
-  description: The preview of the Azimuth theme
+  description: >-
+    LeopoldinuMED bietet in großzügigen und nach neuestem technischen Standard
+    ausgestatteten Räumlichkeiten ein breites medizinisches Angebot auf höchstem
+    Niveau.
   extra:
     - name: 'og:type'
       value: website
