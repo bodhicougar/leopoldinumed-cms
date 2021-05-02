@@ -129,7 +129,7 @@ seo:
       value: LeopoldinuMED
       keyName: property
     - name: 'og:description'
-      value: LeopoldinuMED Internetauftritt
+      value: Gemeinschaftsordination LeopoldinuMED Hall in Tirol
       keyName: property
     - name: 'og:image'
       value: /images/Bildschirmfoto%20vom%202021-05-02%2021-23-08.png
