@@ -29,7 +29,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
-          - type: action
+          - type: actionStackbit theme demo
             label: Learn More
             url: /features
             style: secondary
